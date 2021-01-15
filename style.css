@@ -1,0 +1,38 @@
+.logo img {
+  width: 300px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu ul li {
+  margin: 0 10px;
+  margin-left: 64px;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu span {
+  display: block;
+}
+
+.text-en {
+  color: #5d5d5d;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.text-ja {
+  color: #000;
+  font-size: 16px;
+}
